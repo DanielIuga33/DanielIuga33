@@ -9,7 +9,7 @@ I am learning at Babes Bolyai University in 3rd year
 * 🌍  I'm based in Campia Turzii, Cluj
 * ✉️  You can contact me at [danieliuga33@yahoo.com](mailto:danieliuga33@yahoo.com)
 * 🧠  I'm learning Backend and Frontend framework
-* 🤝  I'm open to collaborating on interesting projects
+* 🤝  I'm open to collaborate on interesting projects
 
 ### Skills
 
